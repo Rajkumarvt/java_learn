@@ -9,7 +9,7 @@ public class day3Multiplication {
         int num1 = sc.nextInt();
 
         for(int i = 1; i<=10; i++){
-            System.out.println(num1 +"*"+i+"="+num1*i);
+            System.out.println(num1 +" x "+i+" = "+num1*i);
 
         }
 
